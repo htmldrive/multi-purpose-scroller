@@ -1,0 +1,11 @@
+.webwidget_slideshow_common{
+    position: relative;
+    font-family: Arial,Sans-Serif;
+    font-size: 12px;
+}
+.webwidget_slideshow_common .slides_box{
+    padding: 0px;
+    margin: 0px;
+    overflow: hidden;
+    position: absolute;
+}

@@ -1,0 +1,19 @@
+.webwidget_rating_bar{
+    padding: 0px;
+    margin: 0px;
+    float: left;
+}
+.webwidget_rating_bar li{
+    line-height: 0px;
+    width: 25px;
+    height: 25px;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 2px;
+    list-style: none;
+    float: left;
+    cursor: pointer;
+}
+.webwidget_rating_bar li div{
+    height: 25px;
+}
