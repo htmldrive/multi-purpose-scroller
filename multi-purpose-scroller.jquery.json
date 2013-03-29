@@ -1,0 +1,31 @@
+{
+    "name": "multi-purpose-scroller",
+    "version": "0.1.0",
+    "title": "Multi-purpose slideshow (text scroller,images scroller) jquery plugin",
+    "author": {
+        "name": "Htmldrive.net",
+        "url": "http://www.htmldrive.net"
+    },
+    "licenses": [
+        {
+            "type": "apache",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.6.1"
+    },
+    "description": "Multi-purpose slideshow (text scroller,images scroller) jquery plugin.",
+    "keywords": [
+        "slideshow",
+        "slider",
+        "animation",
+        "ui",
+        "image",
+        "rotator"
+    ],
+    "homepage": "http://www.htmldrive.net/items/show/38/Multi-purpose-slideshowtext-scrollerimages-scroller-jquery-plugin",
+    "demo": "http://www.htmldrive.net/items/demo/38/Multi-purpose-slideshowtext-scrollerimages-scroller-jquery-plugin",
+    "download": "https://github.com/htmldrive/multi-purpose-scroller",
+    "bugs": "https://github.com/htmldrive/multi-purpose-scroller/issues"
+}
